@@ -6,7 +6,6 @@ namespace BinarySearchTreePrograms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to the binary search tree programs");
             Console.WriteLine("\n1.Insertion.");
             Console.WriteLine("Enter the option!!!");
             int num = Convert.ToInt32(Console.ReadLine());
